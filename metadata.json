@@ -1,0 +1,6 @@
+{
+  "name": "SK Pizza Point",
+  "description": "Authentic restaurant web app for SK Pizza Point with stone-baked pizzas, burgers, grilled sandwiches, Firebase real-time database, direct WhatsApp ordering, customer account portal, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
